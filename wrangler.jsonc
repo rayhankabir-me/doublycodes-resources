@@ -1,0 +1,6 @@
+{
+  "name": "doublycodes-resources",
+  "compatibility_date": "2026-09-21",
+  "observability": { "enabled": true },
+  "assets": { "directory": "." }
+}
